@@ -3,9 +3,10 @@
 https://www.youtube.com/watch?v=tUE2Nic21BA
 
 ## Learning Objectives
-- [ ] Code along with the video
-- [ ] Make an API call to an external, public API
-- [ ] Display the response on the front end
+
+- [X] Code along with the video
+- [X] Make an API call to an external, public API
+- [X] Display the response on the front end
 
 ## Requirements
 
@@ -18,6 +19,6 @@ https://www.youtube.com/watch?v=tUE2Nic21BA
 
 ## Acceptance Criteria
 
-- [ ] I have coded along with the video
-- [ ] My code fetches from the public API and the reponse is displayed by my front end
-- [ ] I have opened a PR with my work 
+- [X] I have coded along with the video
+- [X] My code fetches from the public API and the reponse is displayed by my front end
+- [X] I have opened a PR with my work
